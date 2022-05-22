@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J84",
+  "range": "'スポットデータ'!A1:J83",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -15,18 +15,6 @@
       "公式サイト"
     ],
     [
-      "2022/05/11 14:46:34",
-      "オフィス",
-      "https://geolonia.github.io/logo/geolonia-logo_b2.jpg",
-      "35.730091",
-      "139.73754",
-      "株式会社Geolonia",
-      "株式会社Geoloniaの東京オフィスです",
-      "",
-      "geoloniamap",
-      "https://geolonia.com"
-    ],
-    [
       "",
       "博物館",
       "",
@@ -37,6 +25,18 @@
       "https://www.instagram.com/snoopymuseumtokyo/",
       "https://twitter.com/snoopy_m_tokyo/",
       "https://snoopymuseum.tokyo/s/smt/?ima=0000"
+    ],
+    [
+      "",
+      "旅館",
+      "",
+      "35.2606",
+      "139.004544",
+      "温泉旅館みたけ",
+      "箱根の奥座敷・仙石原の自然に囲まれた温泉旅館です。\r\n新鮮な魚介類や旬の食材を活かした和食膳と\r\n乳白色の良質な温泉が自慢！\r\n箱根観光の拠点に、ゆったり湯治に、癒しの温泉旅行に、\r\n昔ながらの温泉宿「みたけ」をご利用くださいませ。\r\n家庭的なあたたかいおもてなしでお待ちしております。\r\nデイユースも承っております♪気軽に日帰り温泉をお楽しみください。",
+      "",
+      "",
+      "https://mitakeryokan.jp/"
     ]
   ]
 }
